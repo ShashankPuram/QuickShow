@@ -1,0 +1,7 @@
+for setting backend server
+npm install express cors dotenv mongoose axios cloudinary
+cors : we can connect backend with fronetend
+dotenv: we can use environment variable
+mongoose: helps to connect backend server with mongodb database
+axios: we can call api calls in the backend server
+cloudinary: we can store images on the cloud store
